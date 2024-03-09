@@ -1,3 +1,5 @@
+# Learn Modern JavaScript: Advanced Topics
+
 Advanced Topics picks up where the Getting Started course ended. You should now have some experience with JavaScript and understand the JavaScript language much better. Therefore, you are ready to learn more of the nuances and important patterns that advanced JavaScript developers know and use.
 
 In Learn Modern JavaScript: Advanced Topics, we explore the more advanced techniques in JavaScript. You learn advanced concepts for objects and functions, the value of 'this', the power of functions using closure and IIFEs. You learn about the namespace and module patterns. You learn JSON and how to load a JSON file. You will follow along as we apply OOP concepts to a project. You get very familiar with the prototype, and these are just the main topics covered in this advanced course. A new bonus section helps you get familiar with functional programming concepts in JavaScript.
